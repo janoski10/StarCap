@@ -9,5 +9,7 @@ namespace StarCapModel.DAL
     public interface IBebidas
     {
         List<Bebida> ObtenerBebidas();
+
+        void Agregar(Bebida bebida);
     }
 }

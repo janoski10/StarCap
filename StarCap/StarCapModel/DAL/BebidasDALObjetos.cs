@@ -33,6 +33,7 @@ namespace StarCapModel.DAL
                     Codigo = "TE-02"
                 }
             };
+
         }
     }
 }

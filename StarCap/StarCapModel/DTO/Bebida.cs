@@ -13,5 +13,7 @@ namespace StarCapModel
 
     public string Codigo { get => codigo; set => codigo = value; }
     public string Nombre { get => nombre; set => nombre = value; }
+
+
     }
 }
